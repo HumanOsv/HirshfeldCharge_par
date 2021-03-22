@@ -1,0 +1,10 @@
+draw delete all
+draw materials off
+draw color green
+display projection Orthographic
+display depthcue off
+axes location off
+draw text "-5.787679 -0.592128 0.033004" " 0.300442" size "2" thickness "2" 
+draw text "-1.817977 0.196704 0.428490" " 0.212604" size "2" thickness "2" 
+draw text "-3.593828 -1.026158 -0.591025" " 0.197221" size "2" thickness "2" 
+draw text "-4.091133 0.684093 1.117207" " 0.130241" size "2" thickness "2" 
